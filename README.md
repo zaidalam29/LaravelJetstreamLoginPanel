@@ -1,1 +1,1 @@
-# LaravelJetstreamLoginPanel
+# Laravel Jetstream Login Panel
